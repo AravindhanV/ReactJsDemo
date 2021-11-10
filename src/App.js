@@ -36,6 +36,7 @@ class App extends React.Component {
         </div>
         <div>
           <input onChange={this.onNameChange} />
+          <span className="error-output">{this.state.nameError}</span>
         </div>
       </>
     )
