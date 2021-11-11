@@ -16,23 +16,6 @@ img {
   color: red;
 }
 
-html {
-  font-size: 14px;
-  font-family: 'Open Sans', sams-serif;
-}
-
-html {
-  background-color: #00539f;
-}
-
-body {
-  width: 600px;
-  margin: 0 auto;
-  background-color: #FF9500;
-  padding: 0 20px 0px 20px;
-  border: 5px solid black;
-}
-
 h1 {
   font-size: 60px;
   text-align: center;
